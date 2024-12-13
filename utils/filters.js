@@ -2,7 +2,6 @@ const allowedShorteningServices = [
   "shorturl.at",
   "tinyurl.com",
   "bit.ly",
-  "goo.gl",
   "t.co",
   "short.ly"
 ];
