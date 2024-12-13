@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+button {
+  width: 100%;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+#uppercaseResult, #urlDisplay {
+  word-wrap: break-word;
+}
+
+#convertBtn {
+  margin-top: 0;
+}
+
+#unshortenBtn {
+  margin-top: 12px;
+}
