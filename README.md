@@ -2,7 +2,7 @@
 
 Simple, privacy focused chromium-based extension that converts URLs to uppercase and unshorten URLs.
 
-This extension works by performing URL checks without actually loading the webpage fully.
+This extension works by performing URL checks without actually fully loading the webpage.
 
 ## Why?
 
@@ -25,4 +25,15 @@ CheckURL provides an easy way to verify URLs by simply converting them uppercase
   - t.co
   - short.ly
 
-### TODO: Finish text and release extension
+## Fully Local
+
+This extension is fully hosted locally giving the user full control. No third-party servers are involved, enhancing security and privacy.
+
+## Download
+
+To use the extension, simply download the `.zip` file from the releases tab, extract it and load it as an unpacked extension in your browser.
+
+## License
+
+This project is open-source and fully under your control. You are free to use, modify and distribute the extension as you see fit.
+However, I am not responsible or liable for any consequences that arise from using this extension. Use it at your own risk.
