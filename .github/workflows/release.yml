@@ -19,7 +19,7 @@ jobs:
       - name: Build directory
         run: |
           mkdir -p build
-          cp -r * build/
+          find . -path ./build -prune -o -exec cp -r {} build/ \;
         
       - name: Create ZIP
         run: |
