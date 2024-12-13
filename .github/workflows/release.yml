@@ -4,6 +4,8 @@ on:
   push:
     tags:
       - 'v*'
+  # test out in a pr
+  pull_request: 
 
 jobs:
   build:
