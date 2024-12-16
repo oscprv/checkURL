@@ -27,7 +27,10 @@ CheckURL provides an easy way to verify URLs by simply converting them uppercase
 
 ## Fully Local
 
-This extension is fully hosted locally giving the user full control. No third-party servers are involved, enhancing security and privacy.
+This extension is fully hosted locally giving you full control. No third-party servers are involved, which enhances security and privacy by keeping all data on your device.
+
+However, this approach also has potential downsides. Since there are no proxy servers, all URL checks are performed directly on your device. While the webpage is not fully loaded
+during these checks, your device is still fully responsible for running them. You should remain cautious about potential security risks.
 
 ## Download
 

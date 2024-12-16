@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "checkURL",
   "description": "Converts URL to uppercase and unshortens URLs.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "background": {
     "scripts": [
       "utils/errors.js",
